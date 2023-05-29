@@ -18,7 +18,7 @@ To use these files, follow the steps below:
 2. Change into the project directory:
 
    ```
-   cd laravel-vue3-files
+   cd laravel-video-chat-demo
    ```
 
 3. Install the required dependencies using Composer:
